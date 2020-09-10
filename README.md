@@ -20,10 +20,10 @@ I'm **Apoorv Kansal**. I like to code and learn new things. Always ready to coll
 
 ### 📫 Contact by going [here](http://apoorv.web.app/contact)
 
+#### 🦆 @quacky_batak
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
 
 
-<br>
 <br>
 <br>
 
