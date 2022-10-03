@@ -14,53 +14,15 @@ Here are some ideas to get you started:
 -->
 # Hi there!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-I'm **Apoorv Kansal**. I like to code and learn new things. Always ready to collaborate on projects. I like Python, Web Development and ML/DL. I'm trying to draw a bridge between UI/UX design and coding. Join me in the quest!
+I’m Apoorv Kansal and I might be one of few peoples who love working with Javascript. I work on React, React Native and Typescript. Currently working with amazing developers at Musixmatch. 
 
-### 🔭 Check out [My Portfolio](http://apoorv.web.app/)
+> *Javascript is my wife but Typescript is my mistress.*
+> 
 
-### 📫 Contact by going [here](http://apoorv.web.app/contact)
+Follow me on Twitter → [@quacky_batak](https://twitter.com/quacky_batak)
 
-#### 🦆 @quacky_batak
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
+I’m not active/ don’t use LinkedIn, [email me](mailto:apoorvkansalak@gmail.com) instead or check out my website [apoorv.page](https://apoorv.page)
 
-
-<br>
-<br>
-
-## ✨ Skills✨
- Programming Lanuages
- <table>
- <tr>
-  <td align="center"><img src="https://simpleicons.org/icons/cplusplus.svg" width="45px" height="45px" /><br/><sub><b>C++</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/python.svg" width="45px" height="45px" /><br/><sub><b>Python</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/c.svg" width="45px" height="45px" /><br/><sub><b>C</b></sub></td>
- </tr>
- </table>
- Web Development
- <table>
- <tr>
-  <td align="center"><img src="https://simpleicons.org/icons/html5.svg" width="45px" height="45px" /><br/><sub><b>HTML5</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/css3.svg" width="45px" height="45px" /><br/><sub><b>CSS3</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/javascript.svg" width="45px" height="45px" /><br/><sub><b>JavaScript</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/react.svg" width="45px" height="45px" /><br/><sub><b>React</b></sub></td>
-    <td align="center"><img src="https://simpleicons.org/icons/mongodb.svg" width="45px" height="45px" /><br/><sub><b>Mongo DB</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/mysql.svg" width="45px" height="45px" /><br/><sub><b>MySQL</b></sub></td>
- </tr>
- </table>
- Version Control
- <table>
- <tr>
-  <td align="center"><img src="https://simpleicons.org/icons/git.svg" width="45px" height="45px" /><br/><sub><b>Git</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/github.svg" width="45px" height="45px" /><br/><sub><b>Github</b></sub></td>
- </tr>
- </table>
- Operating Systems
- <table>
- <tr>
-  <td align="center"><img src="https://simpleicons.org/icons/windows.svg" width="45px" height="45px" /><br/><sub><b>Windows</b></sub></td>
-  <td align="center"><img src="https://simpleicons.org/icons/linux.svg" width="45px" height="45px" /><br/><sub><b>Linux ❤</b></sub></td>
- </tr>
-</table>
 
 <br>
 <br>
